@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CyberDost</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="description_comment_button">comment button</string>
+    <string name="other_option_description">other option</string>
+    <string name="user_image_description">user image description</string>
+    <string name="user_name">User Name</string>
+    <string name="dummy_description">dummy description</string>
+    <string name="sms_activity_text2">The solution to protect you from falling victim to fraudulent text messages</string>
+    <string name="sms_activity_text">Stay Safe from scams with our SMS scam checker AI</string>
+    <string name="copy_sms_past"><![CDATA[Copy the SMS & paste it below]]></string>
+    <string name="suspisious_sms_action">Paste suspicious SMS here...</string>
+    <string name="analyse_sms">Analyse SMS</string>
+    <string name="contact_your_police">Contact your nearby police</string>
+    <string name="immediate_action">Let the cyber cell know that you’ve just been scammed, so that you can seek immediate actions available to you</string>
+    <string name="desciption_sms_spam_result">Our tool utilizes advanced algorithms to scan and analyze the content of incoming SMS messages, identifying potential scams and warning you before it\'s too late.</string>
+    <string name="cybergyan">Cyber Gyan</string>
+    <string name="settings">Settings</string>
+    <string name="accounts">Accounts</string>
+    <string name="url_waring">Identify Scammy URL before clicking them</string>
+    <string name="url_activity_des">Protect yourself from internet fraud with analysing suspicious URLs here</string>
+    <string name="paste_url_here">Paste url here</string>
+    <string name="analyse_url">Analyse URL</string>
+    <string name="url_des">Our tool utilizes advanced algorithms to scan and analyze the content of URL and the webpage, identifying potential scams and warning you before it\'s too late.</string>
+</resources>

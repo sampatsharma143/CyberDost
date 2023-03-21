@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CyberDost" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1E88E5</item>
+        <item name="colorPrimaryVariant">#0D67B6</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+
+    <style name="reg_light_text">
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">@font/regular</item>
+        <item name="android:textColor">#96999C</item>
+    </style>
+    <style name="reg_black_text">
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">@font/regular</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="title_text">
+        <item name="android:fontFamily">@font/semibold</item>
+        <item name="android:textColor">#0C0C0C</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+    <style name="title_text_theme">
+        <item name="android:fontFamily">@font/semibold</item>
+        <item name="android:textColor">#1E88E5</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+    <style name="reg_dark_text">
+        <item name="android:fontFamily">@font/semibold</item>
+        <item name="android:textColor">#1E1E1E</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+</resources>
